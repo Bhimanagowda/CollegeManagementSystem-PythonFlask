@@ -1,0 +1,9 @@
+p, Admin, /department*, (GET)|(POST)|(PUT)|(DELETE)
+p, Admin, /teacher*, (GET)|(POST)|(PUT)|(DELETE)
+
+p, HOD, /student*, (GET)|(POST)|(PUT)|(DELETE)
+p, Teacher, /student*, (GET)|(POST)|(PUT)|(DELETE)
+
+p, Teacher, /coursesubject*, (GET)|(POST)|(PUT)|(DELETE)
+
+

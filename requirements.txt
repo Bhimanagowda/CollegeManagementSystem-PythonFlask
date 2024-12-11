@@ -1,0 +1,14 @@
+Flask==2.3.2
+SQLAlchemy==2.0.23
+Flask-RESTful==0.3.9
+Flask-Migrate==4.0.7
+psycopg2==2.9.10
+jsonschema==4.23.0
+PyJWT
+uuid==1.30
+Flask-JWT-Extended==4.7.1
+casbin==1.37.0
+loguru==0.7.2
+
+
+
